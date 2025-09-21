@@ -65,5 +65,6 @@ reset_btn = tk.Button(button_frame, text="Reset", font=("Arial", 18, "bold"),
 reset_btn.grid(row=0, column=2, padx=10)
 
 
-# TO ME -- Dont touch this line! \/ needed
+
+
 window.mainloop()
