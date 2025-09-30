@@ -4,7 +4,7 @@ import time
 
 
 window = tk.Tk()
-window.title("Stopwatch")
+window.title("CodeWatch")
 window.geometry("500x500")
 window.config(bg="#1e1e2f")
 
@@ -68,3 +68,4 @@ reset_btn.grid(row=0, column=2, padx=10)
 
 
 window.mainloop()
+
